@@ -7,7 +7,7 @@ Learning to use The Well physics simulation datasets.
 ```bash
 python3 -m venv /path/to/physim
 source path/to/physim/bin/activate
-pip3 install the_well
+pip3 install -r requirements.txt
 ```
 
 ## Current Scripts

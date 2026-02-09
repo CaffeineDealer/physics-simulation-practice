@@ -6,3 +6,5 @@ trainset = WellDataset(
     well_dataset_name="active_matter",
     well_split_name="train"
 )
+
+train_loader = DataLoader(trainset)
