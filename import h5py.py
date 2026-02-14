@@ -25,4 +25,3 @@ for i in range(n2):
     display.clear_output(wait=True) 
 
 plt.show()
-# %%
