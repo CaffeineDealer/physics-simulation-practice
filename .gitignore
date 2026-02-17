@@ -3,3 +3,4 @@ physim/
 data/
 .DS_Store
 shearflow_1d_profiles_Re5e+05_Sc2.0e-01_ic0.npz
+.gitignore
